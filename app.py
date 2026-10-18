@@ -6,7 +6,6 @@ import matplotlib.pyplot as plt
 st.set_page_config(page_title="Cross Correlation App", layout="wide")
 
 st.title("Gait Signal Analysis: Cross Correlation")
-st.write("Aplikasi ini mereplikasi program Delphi dengan perhitungan rumus manual.")
 
 # Sidebar untuk upload file
 st.sidebar.header("Input Data")
